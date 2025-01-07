@@ -4,3 +4,4 @@
 
 - [Singleton](01-singleton)
 - [Factory](02-factory)
+- [Builder](03-builder)

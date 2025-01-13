@@ -8,3 +8,4 @@
 - [Strategy](04-strategy)
 - [Observer](05-observer)
 
+x

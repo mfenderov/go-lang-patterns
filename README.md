@@ -5,3 +5,6 @@
 - [Singleton](01-singleton)
 - [Builder](02-builder)
 - [Factory](03-factory)
+- [Strategy](04-strategy)
+- [Observer](05-observer)
+

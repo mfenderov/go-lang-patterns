@@ -3,5 +3,5 @@
 ## Table of Contents
 
 - [Singleton](01-singleton)
-- [Factory](02-factory)
-- [Builder](03-builder)
+- [Builder](02-builder)
+- [Factory](03-factory)

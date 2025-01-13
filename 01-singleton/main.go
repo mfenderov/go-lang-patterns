@@ -7,8 +7,8 @@ import (
 
 func main() {
 	//We're running a small office kitchen and, of course, we want to have a coffee machine
-	coffeeMachine := coffeemachine.BuyNewMachine()
-	coffeeMachine.MakeCoffee()
+	coffeeMachine1 := coffeemachine.BuyNewMachine()
+	coffeeMachine1.MakeCoffee()
 
 	//completely different person in the office wants a coffee
 	coffeeMachine2 := coffeemachine.BuyNewMachine()
@@ -24,8 +24,8 @@ func main() {
 		We can use the same coffee machine, and make sure that it's the same one, and that it's shared
 	*/
 
-	coffeeMachineSingleton := singletonmachine.BuyNewMachine()
-	coffeeMachineSingleton.MakeCoffee()
+	coffeeMachineSingleton1 := singletonmachine.BuyNewMachine()
+	coffeeMachineSingleton1.MakeCoffee()
 
 	//totally different file
 	coffeeMachineSingleton2 := singletonmachine.BuyNewMachine()

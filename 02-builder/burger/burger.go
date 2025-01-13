@@ -1,5 +1,12 @@
 package burger
 
+type Burger struct {
+	Patty   string
+	Cheese  bool
+	Lettuce bool
+	Sauce   string
+}
+
 type burger struct {
 	patty   string
 	cheese  bool

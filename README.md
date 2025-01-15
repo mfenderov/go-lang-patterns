@@ -8,3 +8,4 @@
 - [Strategy](04-strategy)
 - [Observer](05-observer)
 - [Chain of Responsibility](06-chain-of-responsibility)
+- [Adapter](07-adapter)

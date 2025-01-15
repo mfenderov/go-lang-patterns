@@ -1,7 +1,7 @@
 package main
 
 import (
-	"chain-of-responsibillity/middleware"
+	"chain-of-responsibility/middleware"
 	"log"
 	"net/http"
 )

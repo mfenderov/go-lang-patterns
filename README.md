@@ -7,5 +7,4 @@
 - [Factory](03-factory)
 - [Strategy](04-strategy)
 - [Observer](05-observer)
-
-x
+- [Chain of Responsibility](06-chain-of-responsibility)
